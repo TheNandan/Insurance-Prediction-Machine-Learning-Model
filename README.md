@@ -1,18 +1,13 @@
 # ⚕️ Prediction to Buy Insurance Based on age
 
-## using logistic Regression
+# Logistic Regression
+
+Logistic regression is an example of supervised learning. It is used to calculate or predict the probability of a binary (yes/no) event occurring. An example of logistic regression could be applying machine learning to determine if a person needs insurance or not .
 
 
-### it is a supervised learning algorithum used for classification
 
-Using age as an input .Model predicts he/she should buy/not buy the insurance.
+![Logistic](https://user-images.githubusercontent.com/105147460/206855806-5fb5d05c-f51c-4907-95aa-01408fd4e49a.gif)
 
-<br>
-
-DEMO : [insurance-prediction-app](https://thenandan-insurance-ml-index-7zctwj.streamlitapp.com/)
-<br>
-Backup DEMO : [insurance-prediction-app](https://insurance-heroku.herokuapp.com/)
-
-![Buy](https://github.com/TheNandan/insurance-logReg/blob/main/buy.png)
-![DontBuy](https://github.com/TheNandan/insurance-logReg/blob/main/DontBuy.png)
-
+# {
+# Happy Coding...
+# }
